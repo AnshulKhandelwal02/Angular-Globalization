@@ -37,6 +37,10 @@
           }
         }
       },
+      'app/translate': {
+        main: 'index',
+        defaultExtension: 'js'
+      },
       rxjs: {
         defaultExtension: 'js'
       }
